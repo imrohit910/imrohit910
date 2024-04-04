@@ -17,7 +17,7 @@ Loknayak Jai Prakash Institute of Technology (2019-2023)
 
 ## Experience
 
-###NEOCRAFT TECHNOLOGIES PRIVATE LIMITED###
+### NEOCRAFT TECHNOLOGIES PRIVATE LIMITED
 *Software Developer Intern*  
 Aug 2019–Aug 2023, Chapra, Bihar
 
